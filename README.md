@@ -1,1 +1,1 @@
-# sokjukim.github.io
+# sokjukim

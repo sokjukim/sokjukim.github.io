@@ -1,4 +1,4 @@
-## sokjukim Github Pages
+## ML Class 
 
-ML Class 
+
 * <https://www.coursera.org/learn/machine-learning>
